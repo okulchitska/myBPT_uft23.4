@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\myBPT\\Components\\myFlightApp\\Login\\Res1',namePairs:[]}]};
